@@ -22,10 +22,10 @@
 
 ## Status
 
-[![Build Status](https://travis-ci.org/SunDi3yansyah/my-sinatra.svg)](https://travis-ci.org/SunDi3yansyah/my-sinatra)
-[![License](https://img.shields.io/github/license/SunDi3yansyah/my-sinatra.svg)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SunDi3yansyah/my-sinatra.svg)](https://github.com/SunDi3yansyah/my-sinatra/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/SunDi3yansyah/my-sinatra.svg)](https://github.com/SunDi3yansyah/my-sinatra/issues)
+[![Build Status](https://travis-ci.org/SunDi3yansyah/sinatra.svg)](https://travis-ci.org/SunDi3yansyah/sinatra)
+[![License](https://img.shields.io/github/license/SunDi3yansyah/sinatra.svg)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SunDi3yansyah/sinatra.svg)](https://github.com/SunDi3yansyah/sinatra/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/SunDi3yansyah/sinatra.svg)](https://github.com/SunDi3yansyah/sinatra/issues)
 
 
 ## Tech Stack
@@ -115,7 +115,7 @@ rackup config.ru
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/SunDi3yansyah/my-sinatra. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/SunDi3yansyah/sinatra. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## Code of Conduct
