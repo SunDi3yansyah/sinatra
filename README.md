@@ -37,8 +37,8 @@
 
 #### Clone
 ```bash
-git clone https://github.com/[username]/[repository-name].git
-cd [repository-name]
+git clone https://github.com/SunDi3yansyah/sinatra.git
+cd sinatra
 ```
 
 ```bash
