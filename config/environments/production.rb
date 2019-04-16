@@ -1,3 +1,6 @@
+# Read more:
+# http://sinatrarb.com/configuration
+
 # set :environment
 # set :sessions
 # set :logging

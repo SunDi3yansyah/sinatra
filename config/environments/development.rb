@@ -1,6 +1,9 @@
+# Read more:
+# http://sinatrarb.com/configuration
+
 # set :environment
 # set :sessions
-# set :logging
+set :logging, true
 # set :method_override
 # set :root
 # set :static
@@ -11,7 +14,7 @@
 # set :bind
 # set :port
 # set :app_file
-# set :dump_errors
-# set :raise_errors
+set :dump_errors, true
+set :raise_errors, true
 # set :lock
-# set :show_exceptions
+set :show_exceptions, true
