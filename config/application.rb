@@ -5,7 +5,7 @@ require 'sinatra/base'
 Bundler.require(:default, ENV['SINATRA_ENV'])
 
 configure ENV['SINATRA_ENV'].to_sym do
-  require "./config/initializers/constants"
+  require_all 'config/initializers'
 
   # See all configuration http://sinatrarb.com/configuration.html
   require "./config/environments/#{ENV['SINATRA_ENV']}"

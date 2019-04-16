@@ -22,3 +22,4 @@ gem 'bcrypt', '~> 3.1.12'
 gem 'sass', '~> 3.7.4'
 gem 'uglifier', '~> 4.1.20'
 gem 'turbolinks', '~> 5.2.0', require: false
+gem 'rack-cors', '~> 1.0.3'
