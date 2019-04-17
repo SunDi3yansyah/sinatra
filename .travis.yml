@@ -12,7 +12,8 @@ before_install:
   - travis_retry gem update --system
   - travis_retry gem install bundler
 install:
-  - travis_retry bundle install --jobs=3 --retry=3
+  - travis_retry bundle install
+  - travis_retry bundle update
   - rake db:create
 notifications:
   email: false
