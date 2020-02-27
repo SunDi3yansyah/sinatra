@@ -10,4 +10,11 @@ class ApplicationController < Sinatra::Application
   after do
     # ... write amazing code
   end
+
+  get '/' do
+    data = {
+      data: APP_NAME
+    }
+    data.to_json
+  end
 end
